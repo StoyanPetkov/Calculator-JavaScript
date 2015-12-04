@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Web Calculator</title>
+    <link href="Style/default.css" rel="stylesheet" />
+    <script src="Script/CalculatorLibrary.js"></script>
+</head>
+<body>
+    <div id="container">
+        <header>
+            <hgroup id="headerText">
+                <h1>Contoso LTd.</h1>
+                <h2>Your success equalsour success</h2>
+            </hgroup>
+        </header>
+        <nav>
+            <a href="default.html"></a>
+        </nav>
+        <div role="main">
+            <aside>
+                <p>Advertisements</p>
+            </aside>
+            <div id="calculator">
+                <input id="txtResult" type="text" readonly="readonly" /><br />
+                <input id="txtInput" type="text" /><br />
+
+                <button id="btn7">7</button>
+                <button id="btn8">8</button>
+                <button id="btn9">9</button><button id="btnMulti">*</button>   <br />
+                <button id="btn4">4</button>
+                <button id="btn5">5</button>
+                <button id="btn6">6</button><button id="btnDiv">/</button>   <br />
+                <button id="btn1">1</button>
+                <button id="btn2">2</button>
+                <button id="btn3">3</button><button id="btnPlus">+</button>    <br />
+                <button id="btn0">0</button>
+                <button id="clear">C</button>
+                <button id="clearEntry">CE</button><button id="btnMinus">-</button> <br />
+                <button id="equal">=</button>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript">
+        window.addEventListener("load", initialize, false);
+    </script>
+</body>
+</html>

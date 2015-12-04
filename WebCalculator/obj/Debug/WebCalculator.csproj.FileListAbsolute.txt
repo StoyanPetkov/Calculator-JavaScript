@@ -1,0 +1,6 @@
+c:\users\stoyan.petkov\documents\visual studio 2013\Projects\Chapter 3\WebCalculator\bin\WebCalculator.dll.config
+c:\users\stoyan.petkov\documents\visual studio 2013\Projects\Chapter 3\WebCalculator\bin\WebCalculator.dll
+c:\users\stoyan.petkov\documents\visual studio 2013\Projects\Chapter 3\WebCalculator\bin\WebCalculator.pdb
+c:\users\stoyan.petkov\documents\visual studio 2013\Projects\Chapter 3\WebCalculator\obj\Debug\WebCalculator.csprojResolveAssemblyReference.cache
+c:\users\stoyan.petkov\documents\visual studio 2013\Projects\Chapter 3\WebCalculator\obj\Debug\WebCalculator.dll
+c:\users\stoyan.petkov\documents\visual studio 2013\Projects\Chapter 3\WebCalculator\obj\Debug\WebCalculator.pdb
