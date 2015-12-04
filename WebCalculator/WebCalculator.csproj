@@ -66,6 +66,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="default.html" />
+    <Content Include="Images\images.jpg" />
     <Content Include="Script\CalculatorLibrary.js" />
     <Content Include="Style\default.css" />
     <Content Include="Web.config" />
