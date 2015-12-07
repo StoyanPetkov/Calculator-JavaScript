@@ -4,7 +4,6 @@
     var ns = this.calculatorNamespace;
 
     ns.initialize = function () {
-
         var calculator = new ns.Calculator();
         $(':button[id^="btn"]').filter(function (index) {
             var rg = /\d/g;
